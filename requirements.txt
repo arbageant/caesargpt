@@ -1,0 +1,4 @@
+discord.py
+# For Google Gemini, we use the official Google Generative AI client
+# See: https://pypi.org/project/google-generativeai/
+google-generativeai
